@@ -65,38 +65,38 @@ Welcome to my GitHub profile! I'm a first-year **Software Engineering Student** 
 
 ## 📂 Featured Projects
 
-### 🌤️ [Nimbus Weather Engine](https://nimbus-weather-engine.vercel.app)
+### 🌤️ <a href="https://nimbus-weather-engine.vercel.app" target="_blank">Nimbus Weather Engine</a>
 > **Tech Stack:** Next.js, TypeScript, Tailwind CSS, WeatherAPI
 - Production-grade weather dashboard with real-time data and dynamic backgrounds.
-- [GitHub Repository](https://github.com/WarunaSLFI/Nimbus-Weather-Engine)
+- <a href="https://github.com/WarunaSLFI/Nimbus-Weather-Engine" target="_blank">GitHub Repository</a>
 
-### 🧠 [QuizMaster - JavaScript Quiz App](https://js-quiz-app-silk.vercel.app)
+### 🧠 <a href="https://js-quiz-app-silk.vercel.app" target="_blank">QuizMaster - JavaScript Quiz App</a>
 > **Tech Stack:** Vanilla JavaScript, HTML5, CSS3, LocalStorage
 - Interactive quiz app with custom state management and scoring.
-- [GitHub Repository](https://github.com/WarunaSLFI/js-quiz-app)
+- <a href="https://github.com/WarunaSLFI/js-quiz-app" target="_blank">GitHub Repository</a>
 
-### 🧮 [Modern Premium Calculator](https://vanilla-js-calculator-pink.vercel.app)
+### 🧮 <a href="https://vanilla-js-calculator-pink.vercel.app" target="_blank">Modern Premium Calculator</a>
 > **Tech Stack:** JavaScript, CSS Variables, Neumorphism UI
 - Feature-rich calculator with history tracking and neumorphic design.
-- [GitHub Repository](https://github.com/WarunaSLFI/vanilla-js-calculator)
+- <a href="https://github.com/WarunaSLFI/vanilla-js-calculator" target="_blank">GitHub Repository</a>
 
-### ⏰ [Pure JavaScript Digital Clock](https://js-digital-clock-cyan.vercel.app)
+### ⏰ <a href="https://js-digital-clock-cyan.vercel.app" target="_blank">Pure JavaScript Digital Clock</a>
 > **Tech Stack:** JavaScript, Date API, CSS
 - Lightweight digital clock with dark/light themes and format switching.
-- [GitHub Repository](https://github.com/WarunaSLFI/js-digital-clock)
+- <a href="https://github.com/WarunaSLFI/js-digital-clock" target="_blank">GitHub Repository</a>
 
 ---
 
 ## 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/warunarathnamalala/">
+  <a href="https://www.linkedin.com/in/warunarathnamalala/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:warunaslfi@gmail.com">
+  <a href="mailto:warunaslfi@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://warunaslfi.com/">
+  <a href="https://warunaslfi.com/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
   </a>
 </p>
