@@ -2,7 +2,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=WarunaSLFI&color=blueviolet)
 
-## 🎯 Software Engineering Student at TAMK | Junior Full Stack Developer | Frontend & Backend | Mobile | Cloud & DevOps | GEN AI
+## 🎯 Software Engineering Student @ TAMK | Full-Stack Developer Intern @ Beecommerce | React · TypeScript · Angular · Node.js
 
 Welcome to my GitHub profile! I'm a **Software Engineering student** at TAMK (Tampere University of Applied Sciences) with hands-on experience in **Full-Stack Web Development**, **Mobile Development**, **Cloud Infrastructure**, and **AI-powered applications**. I specialize in building responsive, production-ready web and mobile apps using **JavaScript (ES6+), TypeScript, React, Next.js, Angular, Flutter**, and modern backend/cloud technologies. I'm passionate about clean UI/UX, scalable architecture, and integrating cutting-edge AI into real-world products.
 
